@@ -18,7 +18,7 @@ Sitenizi tasarlarken aşağıdaki wireframe(çerçeve)'leri kılavuz olarak kull
 
 [Home Page](./Assets/Homepage.png)
 
-[Confirmation](./Assets/Confirmation.png)
+[Confirmation](./Assets/Connfirmation.png)
 
 ## Giriş
 
